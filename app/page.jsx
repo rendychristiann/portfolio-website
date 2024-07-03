@@ -13,7 +13,7 @@ const Home = () => {
           <div className="text-center xl:text-left order-2 xl:order-none">
             <span className="text-xl">portfolio-website</span>
             <h1 className="h1 mb-6">Hello! I am <br /> <span className="text-accent">Rendy Christian</span></h1>
-            <p className="max-w-[500px] xl:max-w-[700px] mb-9 text-white/80">I excel at <span className="text-accent font-semibold">telecommunication systems, electrical engineering, software engineering, and artificial intelligence</span>. I am also proficient in various programming languages and technologies </p>
+            <p className="max-w-[500px] xl:max-w-[700px] mb-9 text-white/80">I am a fresh graduate of Electrical Engineering at Universitas Indonesia. I excel at <span className="text-accent font-semibold">telecommunication systems, electrical engineering, software engineering, and artificial intelligence</span>. I am also proficient in various programming languages and technologies </p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <a href="/myCV.pdf" download="Rendy Christian's CV.pdf">
               <Button variant="outline" size="lg" className="uppercase flex items-center gap-2" >
