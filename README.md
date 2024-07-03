@@ -2,7 +2,10 @@
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/rendychristiann)
 
-This repository contains the source code for my personal portfolio website. The website is built using Next.js and styled with Tailwind CSS. It showcases my professional experience, skills, projects, and educational background in a clean and responsive design.
+This repository contains the source code for my personal portfolio website. This website was created using Next.js and styled with Tailwind CSS. It showcases my professional experience, skills, projects, and educational background in a clean and responsive design. This website is live at https://rendy-portfolio.vercel.app
+
+![image](https://github.com/rendychristiann/portfolio-website/assets/78911479/7b521771-f32f-4cea-b4da-70c50ab3ad67)
+
 
 ## Table of Contents
 - [Tech Stack](#Tech-Stack)
