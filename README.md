@@ -24,7 +24,7 @@ This repository contains the source code for my personal portfolio website. This
 - Dynamic Content: Easily updatable content sections for projects, skills, and experiences.
   
 ## License
-This project is inspired from Christian Mihai's Youtube Video (https://www.youtube.com/@cristianmihai01)
+This project was inspired from Cristian Mihai's Youtube Video (https://www.youtube.com/@cristianmihai01)
 
 ## Getting Started
 To install this project, simply clone the repository and run the following commands:
